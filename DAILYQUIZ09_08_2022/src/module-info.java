@@ -1,0 +1,2 @@
+module DAILYQUIZ09_08_2022 {
+}
